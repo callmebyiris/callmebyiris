@@ -10,7 +10,7 @@ Analista de Qualidade de Software (QA) & Pós-graduada em Ciência de Dados
 - 🐍 Focada no desenvolvimento de pipelines de dados com **Python, SQL e modelagem de dados**.
 - 🎓 Interesses em **Engenharia de Dados, Ciência de Dados e Qualidade de Software**.
 - 💬 Pergunte-me sobre **Testes automatizados, Python, SQL e Dados**.
-- 📫 Como me encontrar: **[seu-email@email.com](mailto:seu-email@email.com)**
+- 📫 Como me encontrar: **[irisgabrielaqueiroz@outlook.com](mailto:irisgabrielaqueiroz@outlook.com)**
 
 ---
 
